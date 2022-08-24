@@ -17,8 +17,9 @@
 
 ## Use cases
 
-- User withdraws tokens without FEE cryptocurrency
-- User sends tokens without the base FEE cryptocurrency
+- User withdraws tokens without FEE cryptocurrency.
+- User sends tokens without the base FEE cryptocurrency.
+- User can deploy a smart contract without the base FEE cryptocurrency.
 
 ## How to run the project
 
